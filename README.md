@@ -1,19 +1,19 @@
 # Data-camp-project
 this is the work form Data camp certfication project 
-Perfect, Thacien 👍
+Perfect, Thacien 
 Below is a **clean, professional GitHub README.md** that you can **copy-paste directly into GitHub (online)**.
 It is **simple English**, **short**, and clearly explains your **Python analysis, metrics, and visuals**.
 
-# 📊 Outbound Nursing Call & Screening Analysis
+#  Outbound Nursing Call & Screening Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes **outbound nursing calls and patient screening completion** using Python.
 The goal is to understand **screening distribution**, **call effectiveness**, and **completion rates**, and to define **business metrics** that can help improve healthcare outreach performance.
 
 The analysis uses **real-world healthcare operational data** and focuses on producing **clear, percentage-based visual insights** that can also be replicated in **Power BI**.
 
-## 🧾 Dataset Description
+##  Dataset Description
 
 The dataset contains **1,988 records** with the following key fields:
 
@@ -24,7 +24,7 @@ The dataset contains **1,988 records** with the following key fields:
 * `latest_call_date` – Date of last call
 * `screening_date` – Date screening was completed
 
-## 🧹 Data Validation & Cleaning
+##  Data Validation & Cleaning
 
 * Removed invalid screening types
 * Standardized call reach and completion indicators
@@ -58,7 +58,7 @@ These values serve as the **baseline metrics** for monitoring future performance
 * Around **40% of patients** are not reached or not yet called
 * Patients with **10–35 eligible screenings** show lower completion rates and may need more follow-up
 
-## ✅ Recommendations
+##  Recommendations
 
 * Improve **call reach rate**, especially for patients not yet contacted
 * Prioritize **high-volume screenings** (COL and CBP)
@@ -66,21 +66,20 @@ These values serve as the **baseline metrics** for monitoring future performance
 * Standardize call workflows to improve consistency and efficiency
 
 
-## 🛠️ Tools Used
+##  Tools Used
 
 * Python
 * Pandas
 * NumPy
 * Matplotlib
-## 📎 Future Work
+##  Future Work
 
 * Build an interactive **Power BI dashboard** using the same metrics
 * Add time-based trend analysis
 * Segment performance by clinic or region
-
 ---
 
-## 👤 Author
+##  Author
 
 **HARAGIRIMANA Thacien**
 
